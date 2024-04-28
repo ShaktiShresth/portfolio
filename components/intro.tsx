@@ -98,7 +98,7 @@ const Intro = () => {
                     className="p-4 text-gray-700 bg-white flex gap-2 items-center rounded-full
                     focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer
                     borderBlack dark:bg-white/10 dark:text-white/60 dark:hover:text-white/50"
-                    href="https://www.linkedin.com/in/shakti-shrestha-5a0288178/"
+                    href="https://www.linkedin.com/in/shakti-shrestha"
                     target="_blank"
                 >
                     <BsLinkedin />
